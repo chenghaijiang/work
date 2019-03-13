@@ -2,5 +2,5 @@
 
 
 
-[TOC]
+[设计模式](prototype/)
 
