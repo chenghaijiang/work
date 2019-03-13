@@ -6,7 +6,7 @@
 
 
 
-![抽象工厂](C:\Users\admin\Desktop\作业\设计模式\工厂模式\抽象工厂.png)
+![抽象工厂](image/抽象工厂.png)
 
 
 
