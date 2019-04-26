@@ -17,8 +17,6 @@ private static List<Member> select(String sql) {
         //4、执行语句集
         rs = pstm.executeQuery();
         while (rs.next()){
-        咕泡出品，必属精品 www.gupaoedu.com
-        3
         Member instance = mapperRow(rs,rs.getRow());
         result.add(instance);
         }
